@@ -7,4 +7,4 @@ Used dense reward to guide the agent.
 
 ## Acknowledgments
 * [Game Physics Engine Development](https://www.amazon.ca/Game-Physics-Engine-Development-Commercial-Grade/dp/0123819768) by Ian Millington
-
+* Great thanks to arakhmat.
